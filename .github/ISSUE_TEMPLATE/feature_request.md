@@ -1,27 +1,20 @@
-# Interactive Markdown Example
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
-Welcome to this interactive Markdown file! Below you'll find some interactive elements:
+---
 
-## Checkbox
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-- [ ] Item 1
-- [x] Item 2
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-## Dropdown
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-<details>
-<summary>Select an option:</summary>
-
-- Option 1
-- Option 2
-- Option 3
-
-</details>
-
-## Text Input
-
-What's your name? <input type="text" placeholder="Your Name">
-
-## Button
-
-<button onclick="alert('Hello!')">Click Me!</button>
+**Additional context**
+Add any other context or screenshots about the feature request here.
